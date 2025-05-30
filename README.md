@@ -1,12 +1,20 @@
 <h1>Hi, I'm Meekness!</h1>
 
-<h2> Software Development Projects:</h2>
+<h2> Software Development Project:</h2>
 
-- [Practicing HTML, CSS & React](https://github.com/joshmadakor1/Algorithms-Practice)
+- Ecommerce website
     
 <h2>Certifications</h2>
 
-- (https://www.youtube.com/watch?v=a83ASGn_V_s)
+- Udemy
+- Codeacademy Beginner Level
+
+<h2>Skills</h2>
+
+- HTML
+- CSS
+- Javascript
+
 
 <h2>Popular YouTube Videos</h2>
 
@@ -23,7 +31,7 @@
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/meekness-james/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
