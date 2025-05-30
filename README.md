@@ -2,7 +2,7 @@
 
 <h2> Software Development Project:</h2>
 
-- Ecommerce website
+- E-commerce website
     
 <h2>Certifications</h2>
 
