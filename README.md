@@ -7,14 +7,11 @@
 <h2>Certifications</h2>
 
 - Udemy
-- Codeacademy Beginner Level
 
 <h2>Skills</h2>
 
 - HTML
 - CSS
-- Javascript
-
 
 <h2>Popular YouTube Videos</h2>
 
