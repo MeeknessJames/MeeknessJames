@@ -1,46 +1,40 @@
-<h1>Hi, I'm Meekness! <br/> A Programmer</h1>
+# Hi there, I'm Meekness James! 👋
 
-<h2> Software Development Project:</h2>
+<p align="center">
+  <img src="./meekness-banner.jpg.png" alt="Meekness James Banner">
+</p>
 
-- E-commerce website
-    
-<h2>Certifications</h2>
+## About Me 🚀
 
-- Udemy
+I'm a passionate **Junior Frontend Developer** with experience in **HTML, CSS, JavaScript, Git, GitHub, and React**. I love building responsive and user-friendly web interfaces, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-<h2>Skills</h2>
+- 🌱 Currently learning: **Frontend Web Development With ALX ProDev**
+- 🔭 Working on: **The ALX Airbnb Clone Project**
+- 🌍 Languages: **English, Igbo (fluent), HTML, CSS, JavaScript**
+- 📫 How to reach me: **meeknessjames1@gmail.com**
+- ⚡ Fun fact: **Frontend developer, admin pro, counselor-in-the-making — I wear many hats (and I love it).**
 
-- HTML
-- CSS
+## My Skills 🧠
 
-<h2>Popular YouTube Videos</h2>
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-- [How to get into Front-end Development Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+
+## Feature Projects 💻
+
+### Airbnb Clone - ALX ProDev
+
+**Airbnb Clone**Airbnb Clone is a collaborative full-stack project developed by a team of Frontend and Backend developers as part of the ALX ProDev program. The project covers core areas such as frontend development, backend integration, and deployment. It reflects our ability to work effectively in cross-functional teams, communicate clearly, and deliver scalable solutions together.
+
+### Personalized Portfolio Website
+
+**My personal portfolio** is a work-in-progress responsive website built with HTML, CSS, and JavaScript. It's being designed to showcase my background, skills, and projects, with a strong focus on clean design, accessibility, and user experience.
+
+## Get in Touch 📬
+- **LinkedIn** https://www.linkedin.com/in/meekness-james/
+- **Twitter** https://x.com/Meekness_James
 
 
-<h2> Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/meekness-james/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
